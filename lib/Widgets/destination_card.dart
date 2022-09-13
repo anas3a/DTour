@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../destination_data.dart';
+import '../../destination_data.dart';
 
 class DestinationCard extends StatelessWidget {
   final int destinationIndex;
